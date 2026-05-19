@@ -1,5 +1,7 @@
-<h1>Hello, Everyone</h1>
-<p>I have created this repo to upload my practice codes of C++. I really love if someone wants to contribute in this Repo</p>
-<br><p>This Repo will help me to practice my skills both C++ and GitHub</p>
+<h1 align="center">Hi 👋, I'm Yash</h1>
 
-<br><a href = "https://www.linkedin.com/in/yash-gupta-293062380/">
+<p align="center">
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
