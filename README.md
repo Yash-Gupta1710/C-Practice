@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yash</h1>
+💻 B.Tech CSE Student  
+🌱 Learning C++, Web Development and DSA  
+🚀 Interested in Open Source  
+
+## 🌐 Socials
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yash-gupta-293062380/">
