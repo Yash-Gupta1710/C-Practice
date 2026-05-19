@@ -5,7 +5,7 @@
 
 ## 🌐 Socials
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/yash-gupta-293062380/">
    <img src = "https://img.shields.io/badge/Linkedin-blue">
   </a>
